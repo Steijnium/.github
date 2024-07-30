@@ -1,20 +1,28 @@
 # Steijnium
 
-Welcome to Steijnium, your trusted tech partner. With over 12 years of experience, we provide reliable solutions in Hetzner hosting and maintenance. Based in the Netherlands, we specialize in Ubuntu-based Linux hosting, security, analytics, and software development.
+Welcome to the Markdown introduction of Steijnium. 
+This document aims to give a distraction free explanation of what Steijnium is and what we do. 
+Steijnium is a freelance software developer specializing in backend systems and server infrastructure. 
+I collaborate closely with external designers and front-end engineers to provide robust tech solutions.
 
-Our expertise includes PostgreSQL procedures, database design, optimization, and security. We are proficient in programming languages such as Java, C++, and Rust. Additionally, we offer DevOps consultancy and thorough code reviews to ensure high-quality analysis.
-
-Compliance with GDPR standards is central to our work, ensuring your projects adhere to European data protection regulations. Partner with Steijnium for straightforward and dependable tech solutions.
+Compliance with GDPR standards is a central part of our work, ensuring your projects adhere to European data protection regulations.
+Partner with Steijnium for straightforward and dependable tech solutions.
 
 ## About Me
 
 Steijnium is a freelance organization collaborating with other software teams to implement robust solutions.
 
-My journey began with low-level machine programming and circuit design. Over the years, I transitioned into office automation and later ventured into full-stack development, focusing on backend systems. I also collaborate closely with designers for front-end aspects.
+My journey in the tech world began with low-level machine programming and circuit design.
+Over the years, I transitioned into office automation and later ventured into full stack development, with a focus on backend systems.
 
-My approach is structured: I ensure functionality first, present it for client approval, and then optimize and secure the solution. This method balances efficiency with future-proofing and security.
+I am not a Web Designer. I collaborate closely with designers and front-end engineers for the visual aspects of development processes.
 
-I aim to develop systems that other developers can easily take over, providing a stable foundation for continued development. While my approach may not always be the most economical, I prioritize thoroughness in future-proofing and security.
+My professional approach is structured: 
+I first ensure functionality, then present it for client approval, and subsequently optimize and secure the solution. 
+This method balances efficiency with future-proofing and security.
+
+My goal is to develop systems that other developers can easily take over, providing a stable foundation for continued development. 
+While my approach may not always be the most economical, I prioritize thoroughness in future-proofing and security.
 
 Beyond programming, I enjoy researching technological innovations in engineering, broadening my expertise beyond software.
 
@@ -36,6 +44,8 @@ Beyond programming, I enjoy researching technological innovations in engineering
 
 ### Programming & Development
 - Full-stack development with a focus on backend.
+- Collaborative development.
+- Agile and Scrum based Software Development
 - Expertise in Java, C++, and Rust.
 - Code reviews for quality assurance.
 
