@@ -6,7 +6,6 @@ Steijnium is a freelance software developer specializing in backend systems and 
 I collaborate closely with external designers and front-end engineers to provide robust tech solutions.
 
 Compliance with GDPR standards is a central part of our work, ensuring your projects adhere to European data protection regulations.
-Partner with Steijnium for straightforward and dependable tech solutions.
 
 ## About Me
 
